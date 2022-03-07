@@ -233,7 +233,6 @@ header .navbar ul li a:hover{
     flex-wrap: wrap;
     padding:1rem 0;
     padding-left: 3rem;
-    width:50%;
 }
 
 .education .box-container .box{
@@ -253,10 +252,9 @@ header .navbar ul li a:hover{
 }
 
 .education .box-container .box h3{
-    font-size: 1.5rem;
+    font-size: 2rem;
     color:#fff;
     padding-top: 1.5rem;
-    width:auto;
 }
 
 .education .box-container .box p{
@@ -362,7 +360,7 @@ header .navbar ul li a:hover{
 
 .contact .row .content .info h3 i{
     padding-right: 1rem;
-    color:var(--yellow);
+    size: 100%;
 }
 
 .top{
